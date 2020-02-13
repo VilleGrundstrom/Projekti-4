@@ -1,0 +1,77 @@
+
+@import url('https://fonts.googleapis.com/css?family=Homemade+Apple|Nothing+You+Could+Do|Parisienne|Sacramento|Shadows+Into+Light|Zhi+Mang+Xing&display=swap');
+
+
+
+
+body
+{
+  background-color: #820000;
+  text-align: center;
+
+}
+
+
+/*Tässä määritellään fontin ja keskitämme sen*/
+#aihe
+{
+  font-size: 34px;
+  font-family: 'Homemade Apple', cursive;
+  text-align: center;
+  color: #00CA00;
+}
+
+
+
+/*Tässä laitamme paragraphit keskelle, lisäämme fontin ja lisäämme padding*/
+#p1, #p2, #p3
+{
+  font-size: 28px;
+  text-align: center;
+  font-family: 'Zhi Mang Xing', cursive;
+  Padding: 5px 5px 5px 5px;
+}
+
+
+
+
+
+#nappi
+{
+  background-color: #FF8E00;
+  width: 100px;
+  border-radius: 25px;
+  height: 35px;
+  font-family: 'Nothing You Could Do', cursive;
+  
+}
+
+
+#search
+{
+  width: 500px;
+  border-radius: 25px;
+  height: 30px;
+  font-family: 'Zhi Mang Xing', cursive;
+}
+
+/*annamme hienoja värejä tekstille :)*/
+#p1
+{
+  color: #8F14D3;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+
+#p2
+{
+  color: #E83AA0;
+  font-family: 'Sacramento', cursive;
+}
+
+
+#p3
+{
+  color: #E09500;
+  font-family: 'Parisienne', cursive;
+}
