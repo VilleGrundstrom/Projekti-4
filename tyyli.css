@@ -1,9 +1,9 @@
-
+/*tässä kutsumme google fonts tiedostoja netti sivuilta*/
 @import url('https://fonts.googleapis.com/css?family=Homemade+Apple|Nothing+You+Could+Do|Parisienne|Sacramento|Shadows+Into+Light|Zhi+Mang+Xing&display=swap');
 
 
 
-
+/*Tässä laitamme body tiedostolle väriä*/
 body
 {
   background-color: #820000;
@@ -12,7 +12,7 @@ body
 }
 
 
-/*Tässä määritellään fontin ja keskitämme sen*/
+/*Tässä määritellään fontti ja keskitämme sen*/
 #aihe
 {
   font-size: 34px;
@@ -23,7 +23,7 @@ body
 
 
 
-/*Tässä laitamme paragraphit keskelle, lisäämme fontin ja lisäämme padding*/
+/*Tässä laitamme paragraphit keskelle, lisäämme fontin ja muuntelemme tekstiä muillakin tavoilla*/
 #p1, #p2, #p3
 {
   font-size: 28px;
@@ -35,7 +35,7 @@ body
 
 
 
-
+/*Tässä muutamme Lisää buttonin väriä ja rajoja*/
 #nappi
 {
   background-color: #FF8E00;
@@ -43,10 +43,10 @@ body
   border-radius: 25px;
   height: 35px;
   font-family: 'Nothing You Could Do', cursive;
-  
+
 }
 
-
+/*Tässä muutamme syotto kohdan rajoja ja kokoa ja fonttia*/
 #search
 {
   width: 500px;
@@ -55,7 +55,7 @@ body
   font-family: 'Zhi Mang Xing', cursive;
 }
 
-/*annamme hienoja värejä tekstille :)*/
+/*annamme hienoja värejä ja fontteja tekstille*/
 #p1
 {
   color: #8F14D3;
